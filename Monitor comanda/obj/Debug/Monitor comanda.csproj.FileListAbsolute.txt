@@ -1,0 +1,40 @@
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Monitor comanda.exe.config
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Monitor comanda.exe
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Monitor comanda.pdb
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Negocios.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Datov1.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Entidades.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\MySql.Data.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Google.Protobuf.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\ZstdNet.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\BouncyCastle.Crypto.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\System.Memory.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\System.Buffers.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\K4os.Compression.LZ4.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\K4os.Hash.xxHash.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\System.Numerics.Vectors.dll
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Negocios.pdb
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Datov1.pdb
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Datov1.dll.config
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Entidades.pdb
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\MySql.Data.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Google.Protobuf.pdb
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\Google.Protobuf.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\BouncyCastle.Crypto.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\System.Memory.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\System.Buffers.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\K4os.Compression.LZ4.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\K4os.Hash.xxHash.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\bin\Debug\System.Numerics.Vectors.xml
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.csproj.AssemblyReference.cache
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.csproj.SuggestedBindingRedirects.cache
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.exe.config
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor_comanda.Form1.resources
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor_comanda.Properties.Resources.resources
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.csproj.GenerateResource.cache
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.csproj.CoreCompileInputs.cache
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.csproj.CopyComplete
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.exe
+F:\Development\otros\Restaurante sprint2\Monitor comanda\obj\Debug\Monitor comanda.pdb

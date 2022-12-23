@@ -1,0 +1,158 @@
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\Datov1.dll.config
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\Datov1.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\Datov1.pdb
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\Google.Protobuf.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\MySql.Data.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Buffers.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Memory.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\ZstdNet.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\Google.Protobuf.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\MySql.Data.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Buffers.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Memory.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Felix\Desktop\Restaurante\Datov1\obj\Debug\Datosv1.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\Restaurante\Datov1\obj\Debug\Datosv1.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\Restaurante\Datov1\obj\Debug\Datosv1.csproj.CopyComplete
+C:\Users\Felix\Desktop\Restaurante\Datov1\obj\Debug\Datov1.dll
+C:\Users\Felix\Desktop\Restaurante\Datov1\obj\Debug\Datov1.pdb
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Datov1.dll.config
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Datov1.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Datov1.pdb
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Google.Protobuf.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\MySql.Data.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Buffers.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Memory.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\ZstdNet.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Google.Protobuf.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\MySql.Data.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Buffers.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Memory.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Felix\Desktop\reestruante v2\Datov1\obj\Debug\Datosv1.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\reestruante v2\Datov1\obj\Debug\Datosv1.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\reestruante v2\Datov1\obj\Debug\Datosv1.csproj.CopyComplete
+C:\Users\Felix\Desktop\reestruante v2\Datov1\obj\Debug\Datov1.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\obj\Debug\Datov1.pdb
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Entidades.dll
+C:\Users\Felix\Desktop\reestruante v2\Datov1\bin\Debug\Entidades.pdb
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Datov1.dll.config
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Datov1.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Datov1.pdb
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\BouncyCastle.Crypto.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Entidades.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Google.Protobuf.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\K4os.Hash.xxHash.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\MySql.Data.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Buffers.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Memory.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Numerics.Vectors.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\ZstdNet.dll
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Entidades.pdb
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\BouncyCastle.Crypto.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Google.Protobuf.pdb
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\Google.Protobuf.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\K4os.Hash.xxHash.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\MySql.Data.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Buffers.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Memory.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Numerics.Vectors.xml
+F:\Development\otros\reestruante v2\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Development\otros\reestruante v2\Datov1\obj\Debug\Datosv1.csproj.AssemblyReference.cache
+F:\Development\otros\reestruante v2\Datov1\obj\Debug\Datosv1.csproj.CoreCompileInputs.cache
+F:\Development\otros\reestruante v2\Datov1\obj\Debug\Datosv1.csproj.CopyComplete
+F:\Development\otros\reestruante v2\Datov1\obj\Debug\Datov1.dll
+F:\Development\otros\reestruante v2\Datov1\obj\Debug\Datov1.pdb
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Datov1.dll.config
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Datov1.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Datov1.pdb
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\BouncyCastle.Crypto.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Entidades.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Google.Protobuf.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\K4os.Compression.LZ4.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\K4os.Hash.xxHash.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\MySql.Data.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Buffers.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Memory.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Numerics.Vectors.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\ZstdNet.dll
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Entidades.pdb
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\BouncyCastle.Crypto.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Google.Protobuf.pdb
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\Google.Protobuf.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\K4os.Compression.LZ4.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\K4os.Hash.xxHash.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\MySql.Data.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Buffers.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Memory.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Numerics.Vectors.xml
+F:\Development\otros\Restaurante newData\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Development\otros\Restaurante newData\Datov1\obj\Debug\Datosv1.csproj.AssemblyReference.cache
+F:\Development\otros\Restaurante newData\Datov1\obj\Debug\Datosv1.csproj.CoreCompileInputs.cache
+F:\Development\otros\Restaurante newData\Datov1\obj\Debug\Datosv1.csproj.CopyComplete
+F:\Development\otros\Restaurante newData\Datov1\obj\Debug\Datov1.dll
+F:\Development\otros\Restaurante newData\Datov1\obj\Debug\Datov1.pdb
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Datov1.dll.config
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Datov1.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Datov1.pdb
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\BouncyCastle.Crypto.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Entidades.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Google.Protobuf.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\K4os.Compression.LZ4.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\K4os.Hash.xxHash.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\MySql.Data.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Buffers.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Memory.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Numerics.Vectors.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\ZstdNet.dll
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Entidades.pdb
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\BouncyCastle.Crypto.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Google.Protobuf.pdb
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\Google.Protobuf.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\K4os.Compression.LZ4.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\K4os.Hash.xxHash.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\MySql.Data.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Buffers.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Memory.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Numerics.Vectors.xml
+F:\Development\otros\Restaurante sprint2\Datov1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Development\otros\Restaurante sprint2\Datov1\obj\Debug\Datosv1.csproj.AssemblyReference.cache
+F:\Development\otros\Restaurante sprint2\Datov1\obj\Debug\Datosv1.csproj.CoreCompileInputs.cache
+F:\Development\otros\Restaurante sprint2\Datov1\obj\Debug\Datosv1.csproj.CopyComplete
+F:\Development\otros\Restaurante sprint2\Datov1\obj\Debug\Datov1.dll
+F:\Development\otros\Restaurante sprint2\Datov1\obj\Debug\Datov1.pdb
